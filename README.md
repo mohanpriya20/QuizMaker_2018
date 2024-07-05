@@ -32,4 +32,4 @@ As the participant starts his test by clicking on ‘start’, five questions wh
    java qm.java
    Replace qm with the name of your Java class if it's different from the filename (qm.java)
 
-Enjoy the Quiz
+Enjoy the Quiz!!
