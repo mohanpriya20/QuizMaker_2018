@@ -1,0 +1,1 @@
+Name the class used to represent a GUI application window, which is optionally resizable and can have a title bar, an icon, and menus.
