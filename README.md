@@ -20,7 +20,7 @@ As the participant starts his test by clicking on ‘start’, five questions wh
 3. Open Windows Command Prompt (CMD)
    Press Win + R, type cmd, and press Enter to open the Command Prompt.
 4. Navigate to Your Java Source Code Directory
-   Use the cd command to navigate to the directory where your Java source code (qm.java) is located. In your case, it's D:\2-2Projects\main programs and 
+   Use the cd command to navigate to the directory where your Java source code (qm.java) is located. In my case, it's D:\2-2Projects\main programs and 
    projects\QuizMaker\QuizMaker:
    cd D:\2-2Projects\main programs and projects\QuizMaker\QuizMaker
 5. Compile the Java Program
